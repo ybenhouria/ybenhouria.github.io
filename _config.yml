@@ -30,20 +30,18 @@ author:
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "ybenhouria@enameknes.ac.ma" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=jUGa5K4AAAAJ&hl=f"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
-  semantic         : # URL
-  ssrn             : # URL
+  orcid            : "https://orcid.org/0000-0003-1356-7535"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
+  researchgate     : "https://www.researchgate.net/profile/Younes-Benhouria?ev=hdr_xprf"
+  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=55386106400"
   zotero           : # URL
 
 
