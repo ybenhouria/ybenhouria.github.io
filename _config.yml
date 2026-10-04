@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Prof. Younes BENHOURIA / Site Title"
+title                    : "Prof. Younes BENHOURIA"
 title_separator          : "-"
 name                     : &name "Younes BENHOURIA"
 description              : &description "Ecole Nationale d'Agriculture de Meknes"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,7 +24,7 @@ repository               : "ybenhouria/ybenhouria.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Younes BENHOURIA"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
